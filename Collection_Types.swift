@@ -9,6 +9,17 @@ import Playgrounds
     
 }
 
+#Playground{
+    
+    let user = [
+        "name":"sakib",
+        "address":"bangladesh"
+    ]
+    
+    print(user["name"])
+    
+}
+
 
 
 
